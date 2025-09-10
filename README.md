@@ -1,6 +1,6 @@
-# 🛍️ MuggleEcommerce Platform
+# 🛍️ Forever-Ecommerce Platform
 
-MuggleEcommerce is a full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express, React, Node.js). It provides a seamless shopping experience for users and includes an **Admin Dashboard** for managing products and monitoring store activity.
+Forever-Ecommerce is a full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express, React, Node.js). It provides a seamless shopping experience for users and includes an **Admin Dashboard** for managing products and monitoring store activity.
 
 ---
 
