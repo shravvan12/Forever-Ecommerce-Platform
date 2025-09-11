@@ -85,6 +85,8 @@ MuggleEcommerce/
 ├── README.md  
 └── package.json  
 
+## Live Demo
+Check out the live version [here](https://foreverrfrontend.vercel.app/)
 ---
 
 ## 🤝 Contributing
